@@ -1,0 +1,37 @@
+{
+    "rarityWeights": {
+         "Common": 0.5,
+         "Uncommon": 0.3,
+         "Rare": 0.15,
+         "Legendary": 0.05
+    },
+    "rarityColors": {
+      "Paramecia": "#808080",
+      "Zoan": "#00ff00",
+      "Mythical Zoan": "#800080",
+      "Logia": "#ffd700"
+    },
+    "fruits": [
+      {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "rarity": "Uncommon"
+      },
+      {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "rarity": "Legendary"
+      }
+    ]
+  }
+  
